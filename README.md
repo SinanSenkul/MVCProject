@@ -5,9 +5,9 @@ A simple MVC project exercise
 ## Description
 In the project defined the MVC elements as follows:
 
-Models: Customer, Order, CustomerOrderViewModel
-Views: Index
-Controllers: CustomerOrdersController
+* Models: Customer, Order, CustomerOrderViewModel
+* Views: Index
+* Controllers: CustomerOrdersController
 
 ### Dependencies
 
